@@ -4,10 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I'm a AI enthusiast with professional experience with industrial processes and environments, specially robotics, automation and computer vision. I'm interested in how to apply machine learning, computer vision, deep learning on embedded systems. If i'm not coding, probably I'm cooking or in the moutains with my bicycle or my telescope!
